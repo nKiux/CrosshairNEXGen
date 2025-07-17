@@ -2,7 +2,7 @@
 一款簡易、乾淨且低資源占用的開源自定義準星<br/>
 由於窩是個人開發者，申請應用程式簽章費財費時，使用前可能會跳出Windows的警告標語，按下 "仍要執行" 後即可正常運作<br/>
 本程式為開源，若不放心也有提供純程式碼，歡迎檢查後自行編譯，編譯CL：<br/>
-`g++ crosshairPRO.cpp -o crosshairNEXGen.exe -lgdi32 -lcomdlg32 -lcomctl32 -mwindows`
+`g++ crosshairNEXGen.cpp -o crosshairNEXGen.exe -lgdi32 -lcomdlg32 -lcomctl32 -mwindows`
 
 ## 使用說明
 #### 注意：需要將遊戲設定為無邊框全螢幕，或者視窗化全螢幕<br/>
@@ -19,7 +19,7 @@
 7：中心點的大小(僅限有中心點的準星)<br/>
 8：透明度<br/>
 
-## 準星預覽<br\>
+## 準星預覽
 (橘字為準星名稱，請注意準星可能因為不同設定看起來有些區別，依使用者喜好自行調整)
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d6a1e089-c0a1-4450-8c72-ddf0989c0154" />
